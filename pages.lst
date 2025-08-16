@@ -1,0 +1,10 @@
+{
+	"pages": [
+		{
+			"path": "pages/the_rest_of_us.html"
+		},
+		{
+			"path": "pages/agents_really.html"
+		}
+	]
+}
